@@ -1,6 +1,8 @@
 # NasaSpaceApp17
 Use Satellite And Other Data To Allow Farmers, Landowners, And Land Managers In Your Locale To Identify And Visualise Water Resources In Their Surroundings.
 
+[YouTube Video Link!](https://www.youtube.com/watch?v=H5prMJ6dkiE)
+
 # OUR SOLUTION
 
 Before the solution it all begins with a story and a simple idea.
@@ -18,6 +20,6 @@ Concepts of deep learning helped us understand the trend of how global ground wa
 * Add maps which shows the ground water level over the next 10 years to make it more interactive and easy to use.
 * Add a compare feature so that land owners and farmers can easily determine where to buy the land.
 
-# Award(GLOBAL NOMINEE)
+# Award (GLOBAL NOMINEE)
 
 https://2017.spaceappschallenge.org/challenges/planetary-blues/wheres-water/teams/team-go/project
